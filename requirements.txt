@@ -1,0 +1,6 @@
+pygame
+pyautogui
+numpy
+opencv-python
+pillow
+pyscreeze
